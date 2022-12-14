@@ -1,5 +1,5 @@
 # advent-of-code-2022
 
-First year participaing in Advent of Code! B)
+First year participaing in Advent of Code!
 
-Posting my code here to keep organized, feel free to take a look at it!
+Posting my code here to keep organized
